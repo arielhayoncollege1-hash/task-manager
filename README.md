@@ -1,7 +1,7 @@
 # STUDENT TASK MANAGER - MVP SUBMISSION
 
 **Course:** Computational Thinking and Programming - Assignment 3  
-**Team:** Edon Teren, Lia Maman, Ariel Hayon  
+**Team:** Elon Ovadia, Ariel Hayon  
 **Due Date:** June 20th, 2026  
 **Submission Date:** June 22, 2026  
 
